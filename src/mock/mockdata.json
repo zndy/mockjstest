@@ -1,0 +1,26 @@
+{
+    "info": {
+        "name": "elmer",
+        "description": "firma"
+    },
+    "goods": [
+        {
+            "name": "duese",
+            "price": 10
+        },
+        {
+            "name": "milchAutomat",
+            "price": 999
+        }
+    ],
+    "ratings": [
+        {
+            "username": "johnny",
+            "score": 10
+        },
+        {
+            "username": "alex",
+            "score": 9
+        }
+    ]
+}
